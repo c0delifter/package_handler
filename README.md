@@ -1,7 +1,7 @@
 # About
 The following is a solution to Thoughtful.AI's code challenge.
 
-Full requirements can be here [here (click me!)](https://thoughtfulautomation.notion.site/Platform-Technical-Screen-b61b6f6980714c198dc49b91dd23d695)
+Full requirements can be [found here (click me!)](https://thoughtfulautomation.notion.site/Platform-Technical-Screen-b61b6f6980714c198dc49b91dd23d695)
 
 The crux of the app is a Python script called `package_handler.py`, which invokes the `sort_package()` function.
 
