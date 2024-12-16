@@ -1,2 +1,4 @@
 # package_handler
-A quick .NET/C# console app with a Dockerfile attached
+The following is a solution to Thoughtful.AI's code challenge.
+
+The crux of the app is a Python script called `package_handler.py`
