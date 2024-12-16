@@ -2,15 +2,15 @@
 
 Classify package
 
-![alt text](docker_run_dimensions.png)
+![alt text](/images/docker_run_dimensions.png)
 
 Run tests
 
-![alt text](docker_run_tests.png)
+![alt text](/images/docker_run_tests.png)
 
 Pass invalid CLI argument
 
-![alt text](docker_run_invalid_arguments.png)
+![alt text](/images/docker_run_invalid_arguments.png)
 
 # About
 The following is a solution to Thoughtful.AI's code challenge.
