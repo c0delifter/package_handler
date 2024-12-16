@@ -1,3 +1,17 @@
+# Preview
+
+Classify package
+
+![alt text](docker_run_dimensions.png)
+
+Run tests
+
+![alt text](docker_run_tests.png)
+
+Pass invalid CLI argument
+
+![alt text](docker_run_invalid_arguments.png)
+
 # About
 The following is a solution to Thoughtful.AI's code challenge.
 
@@ -14,12 +28,6 @@ Depending on these values, the function classifies the package into one of three
 `REJECTED`
 
 The return value of the function is a string.
-
-![alt text](docker_run_dimensions.png)
-
-![alt text](docker_run_tests.png)
-
-![alt text](docker_run_invalid_arguments.png)
 
 # Arguments to Pass
 The script expects one of two arguments:
